@@ -1,4 +1,3 @@
-rome-certiorem-webapp
-=====================
+# Project moved
 
-Example project using rome-certiorem
+We have combined all ROME projects in one repository: https://github.com/rometools/rome
